@@ -1,0 +1,1 @@
+thi is my first git dummy file. trying to learn git .
